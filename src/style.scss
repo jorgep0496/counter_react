@@ -1,0 +1,37 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    .timer div {
+    display: inline-block;
+    font-size: 90px;
+    line-height: 100px;
+    background-color: #343a40;
+    color: white;
+    padding: 10px;
+    margin: 3px;
+    border-radius: 5%;
+    };
+
+    p {
+        display: inline-block;
+        font-size: 90px;
+        line-height: 100px;
+        color: white;
+        background-color: black;
+        padding: 10px;
+        margin: 3px;
+        margin-top: 0;
+        border-radius: 5%;
+        }
+
+        button {
+            width: 100px;
+            height: 80px;
+            border: 2px solid lightgray;
+            margin-top: 20px;
+        }
+}
